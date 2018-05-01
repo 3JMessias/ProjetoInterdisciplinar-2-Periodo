@@ -1,6 +1,6 @@
 # Projeto Central de Pedidos - Pizzaria
 
-# Projeto Interdisciplinar ADS 2ºPeriodo - UNIPAC
+## Projeto Interdisciplinar ADS 2ºPeriodo - UNIPAC
 
 ### Integrantes do Grupo
 - Cristian Passos;<br  />
